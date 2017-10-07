@@ -1,3 +1,4 @@
+###  基于fullcalendar制作的日程管理小demo
 #### 一、项目功能概述：
 该项目是基于`fullcalendar`而制作的日程管理，`fullcalendar`是一个基于`jquery`的日历插件，在该项目中，我们可以在日历上编辑我们的日程，并将日程通过日视图、周视图、月视图的方式来进行展示，也可以通过选择时间段来展示我们的日程。该项目使用`artDialog`来制作弹出框的效果，使用`wickedpicker`和`bootstrap-datapicker`来作为我们的时间选择插件，还选择了`jquery-ui`当中的`slider`来制作设置时间段的滑块效果。
 
